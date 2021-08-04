@@ -18,6 +18,7 @@ pipeline {
         GITHUB_ACCOUNT = 'buelev'
         APP_NAME = 'devops-java-sample'
         SONAR_CREDENTIAL_ID = 'sonarqube-id'
+        
     }
 
     stages {
